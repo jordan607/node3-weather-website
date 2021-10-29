@@ -6,3 +6,5 @@ Use :
 https://dry-lowlands-94915.herokuapp.com/
 
 to access live version of application.
+
+# Deployed with heroku
